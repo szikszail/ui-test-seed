@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/szikszail/ui-test-seed#readme",
   "dependencies": {
-    "chai": "^4.2.0",
+    "chai": "^4.3.6",
     "chai-as-promised": "^7.1.1",
     "chai-each": "^0.0.1",
     "chai-sorted": "^0.2.0",
